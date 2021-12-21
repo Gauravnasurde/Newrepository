@@ -9,4 +9,9 @@ public class demo1
 		System.out.println("Pull Request no.2")
 	}
 
+	
+	public void m1()
+	{
+		System.out.println("Branch 2");
+	}
 }
